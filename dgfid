@@ -1,0 +1,25 @@
+[33mcommit 4785f5d802abef2431b18dda8230d917471a353f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: rudgh420 <abc40abc40@naver.com>
+Date:   Mon Apr 3 12:57:17 2023 +0900
+
+    fist commit
+
+[33mcommit ece690a717dc1f23eb9bc01153aed241025c71c0[m
+Author: rudgh420 <33016133+rudgh420@users.noreply.github.com>
+Date:   Wed Mar 15 11:51:23 2023 +0900
+
+    Update volume_calc.py
+
+[33mcommit f2b5db43f14b0cde8ddde5d5f8d4ff4dafcdaf17[m
+Author: rudgh420 <33016133+rudgh420@users.noreply.github.com>
+Date:   Tue Mar 14 17:19:16 2023 +0900
+
+    Create volume_calc.py
+    
+    중앙대학교 오픈소스SW와 파이썬 프로그래밍 03분반 1주차 과제, 박스와 부피계산
+
+[33mcommit 6e2a89edc02f4973f95377b5237ead0340c2104e[m
+Author: rudgh420 <33016133+rudgh420@users.noreply.github.com>
+Date:   Tue Mar 14 17:16:30 2023 +0900
+
+    Initial commit
