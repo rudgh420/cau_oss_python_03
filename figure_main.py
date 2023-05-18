@@ -1,5 +1,5 @@
 # %%
-import figure
+import figure # figure.line 형태로 사용했으므로 from 이 아닌import figure
 # [fill this line]
 
 myline = figure.line(10)
